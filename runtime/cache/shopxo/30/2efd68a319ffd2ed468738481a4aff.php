@@ -1,0 +1,4 @@
+<?php
+//000000000180
+ exit();?>
+a:2:{i:0;a:7:{s:2:"id";s:1:"5";s:4:"name";s:12:"拨打电话";s:10:"images_url";s:96:"http://www.tianjinyuxi.cn/public/static/upload/images/app_nav/2018/11/19/2018111915461980516.png";s:11:"event_value";s:11:"18230209106";s:10:"event_type";s:1:"4";s:8:"bg_color";s:7:"#FB6E52";s:13:"is_need_login";s:1:"0";}i:1;a:7:{s:2:"id";s:1:"8";s:4:"name";s:6:"我的";s:10:"images_url";s:96:"http://www.tianjinyuxi.cn/public/static/upload/images/app_nav/2018/11/19/2018111915491258361.png";s:11:"event_value";s:27:"index.php?s=user/index.html";s:10:"event_type";s:1:"0";s:8:"bg_color";s:7:"#49acfa";s:13:"is_need_login";s:1:"1";}}

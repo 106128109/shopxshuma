@@ -1,0 +1,4 @@
+<?php /*a:1:{s:82:"/home/wwwroot/www.tianjinyuxi.cn/app/admin/view/default/payment/module/enable.html";i:1665913498;}*/ ?>
+<?php if(!empty($module_data) and isset($module_data['is_install']) and $module_data['is_install'] == 1): ?>
+    <a href="javascript:;" class="am-icon-btn am-icon-check submit-state <?php if($module_data['is_enable'] == 1): ?>am-success<?php else: ?>am-default<?php endif; ?>" data-url="<?php echo MyUrl('admin/payment/statusupdate'); ?>" data-id="<?php echo htmlentities($module_data['payment']); ?>" data-field="is_enable" data-state="<?php echo htmlentities($module_data['is_enable']); ?>" data-is-update-status="1"></a>
+<?php endif; ?>

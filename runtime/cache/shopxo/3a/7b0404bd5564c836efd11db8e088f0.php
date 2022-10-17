@@ -1,0 +1,4 @@
+<?php
+//000000000180
+ exit();?>
+a:3:{i:0;a:6:{s:2:"id";s:1:"1";s:4:"name";s:6:"分类";s:10:"images_url";s:95:"http://www.tianjinyuxi.cn/public/static/upload/images/quick_nav/2020/09/11/1599806728463641.png";s:11:"event_value";s:31:"index.php?s=category/index.html";s:10:"event_type";s:1:"0";s:8:"bg_color";s:7:"#FF9933";}i:1;a:6:{s:2:"id";s:1:"2";s:4:"name";s:6:"电话";s:10:"images_url";s:95:"http://www.tianjinyuxi.cn/public/static/upload/images/quick_nav/2020/09/17/1600322667732829.png";s:11:"event_value";s:11:"17688888888";s:10:"event_type";s:1:"4";s:8:"bg_color";s:7:"#FF00CC";}i:2;a:6:{s:2:"id";s:1:"3";s:4:"name";s:6:"订单";s:10:"images_url";s:95:"http://www.tianjinyuxi.cn/public/static/upload/images/quick_nav/2020/09/11/1599808001838784.png";s:11:"event_value";s:28:"index.php?s=order/index.html";s:10:"event_type";s:1:"0";s:8:"bg_color";s:7:"#996633";}}
